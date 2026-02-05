@@ -1,0 +1,129 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model User {
+  id           String    @id @default(cuid())
+  email        String    @unique
+  passwordHash String
+  createdAt    DateTime  @default(now())
+  projects     Project[]
+  sessions     Session[]
+}
+
+model Session {
+  id        String   @id @default(cuid())
+  token     String   @unique
+  userId    String
+  user      User     @relation(fields: [userId], references: [id])
+  expiresAt DateTime
+  createdAt DateTime @default(now())
+}
+
+model Project {
+  id        String     @id @default(cuid())
+  userId    String
+  user      User       @relation(fields: [userId], references: [id])
+  name      String
+  niche     String
+  market    String
+  goal      String
+  createdAt DateTime   @default(now())
+  intake    Intake?
+  ideas     Idea[]
+  validation Validation?
+  blueprint Blueprint?
+  exports   Export[]
+  shareLink ShareLink?
+}
+
+model Intake {
+  id                String   @id @default(cuid())
+  projectId         String   @unique
+  project           Project  @relation(fields: [projectId], references: [id])
+  niche             String
+  audience          String
+  expertise         String
+  timeAvailable     String
+  preferredFormat   String?
+  budgetConstraints String
+  revenueGoal       String?
+  market            String
+  existingAssets    String
+  createdAt         DateTime @default(now())
+}
+
+model Idea {
+  id                   String   @id @default(cuid())
+  projectId            String
+  project              Project  @relation(fields: [projectId], references: [id])
+  title                String
+  summary              String
+  scoreDemand          Int
+  scoreCompetition     Int
+  scoreDifferentiation Int
+  scoreComplexity      Int
+  recommendedFormat    String
+  priceBand            String
+  targetBuyer          String
+  corePain             String
+  promiseAngle         String
+  whyItSells           String
+  differentiationWedge String
+  selected             Boolean  @default(false)
+  createdAt            DateTime @default(now())
+}
+
+model Validation {
+  id                 String   @id @default(cuid())
+  projectId          String   @unique
+  project            Project  @relation(fields: [projectId], references: [id])
+  selectedIdeaId     String?
+  selectedIdea       Idea?    @relation(fields: [selectedIdeaId], references: [id])
+  interviewQuestions Json
+  experiments        Json
+  successMetrics     Json
+  notes              String?
+  status             String
+  updatedAt          DateTime @updatedAt
+}
+
+model Blueprint {
+  id              String   @id @default(cuid())
+  projectId       String   @unique
+  project         Project  @relation(fields: [projectId], references: [id])
+  selectedIdeaId  String?
+  selectedIdea    Idea?    @relation(fields: [selectedIdeaId], references: [id])
+  icp             String
+  positioning     String
+  outcomes        Json
+  curriculum      Json
+  productionPlan  Json
+  pricingStrategy String
+  proofPlan       Json
+  risks           Json
+  updatedAt       DateTime @updatedAt
+}
+
+model Export {
+  id        String   @id @default(cuid())
+  projectId String
+  project   Project  @relation(fields: [projectId], references: [id])
+  type      String
+  url       String
+  createdAt DateTime @default(now())
+}
+
+model ShareLink {
+  id        String   @id @default(cuid())
+  projectId String   @unique
+  project   Project  @relation(fields: [projectId], references: [id])
+  token     String   @unique
+  expiresAt DateTime?
+  createdAt DateTime @default(now())
+}
