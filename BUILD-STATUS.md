@@ -30,7 +30,7 @@ performance layer does not.
 | 1 | B. Competitors | 0 | 10 per rival + 2 | 0 |
 | 1 | C. Persona source pulls | 0 | 3 | 5 |
 | 1 | D. Voice of customer | 0 | 0 | 11 |
-| 1 | E. Audit baseline | 0 | 0 | 16 |
+| 1 | E. Audit baseline | 0 | 0 | 17 |
 | 1 | Synthesis + roll-up | 0 | 5 | 4 |
 | 2 | Strategy | 0 | 5 | 0 |
 | 3 | Ideation | 0 | 4 | 0 |
@@ -86,7 +86,7 @@ performance layer does not.
 
 ### Phase 1E — audit baseline (t0)
 
-- `blocked (no MCP)` — all sixteen audit cuts: quarterly (`90-day-creative-strategy-audit`, `90-day-performance-audit`, `90-day-diversity-audit`, `customer-review-audit`, `quarterly-whitespace-analysis`), monthly (`monthly-hook-audit`, `monthly-performance-report`, `monthly-organic-tiktok-audit`, `monthly-tiktok-mining`), `biweekly-iterations-report`, `weekly-performance-snapshot`, and the external cuts (`90-day-creative-strategy-audit-external`, `90-day-performance-audit-external`, `90-day-diversity-audit-external`, `single-competitor-ad-analysis`, `monthly-creative-landscape`, `monthly-top-impressions-report`). Every one reads the ad account.
+- `blocked (no MCP)` — all seventeen audit cuts: quarterly (`90-day-creative-strategy-audit`, `90-day-performance-audit`, `90-day-diversity-audit`, `customer-review-audit`, `quarterly-whitespace-analysis`), monthly (`monthly-hook-audit`, `monthly-performance-report`, `monthly-organic-tiktok-audit`, `monthly-tiktok-mining`), `biweekly-iterations-report`, `weekly-performance-snapshot`, and the external cuts (`90-day-creative-strategy-audit-external`, `90-day-performance-audit-external`, `90-day-diversity-audit-external`, `single-competitor-ad-analysis`, `monthly-creative-landscape`, `monthly-top-impressions-report`). Every one reads the ad account.
 
 ### Phase 1 — synthesis nodes
 
@@ -117,8 +117,10 @@ performance layer does not.
 ## Needs attention
 
 1. **Brand context.** Nothing past Phase 0 runs without it.
-2. **No Parker MCP.** 32 prompts are blocked on it, including the entire audit and voice-of-customer
-   layer. The brain will be strong on strategy and craft, thin on performance truth, until it's wired.
+2. **No Parker MCP.** 36 prompts are affected and 30 hard-block, including the entire audit baseline
+   and voice-of-customer layer. The six external audit cuts are partly recoverable from the public
+   Meta Ad Library. The brain will be strong on strategy and craft, thin on performance truth, until
+   it's wired. Branch-by-branch detail is in `.claude/skills/bootstrap-brain/references/no-mcp-build.md`.
 3. **This is a remote container.** It gets reclaimed after inactivity, so the build commits and pushes
    to git at every phase boundary. Nothing lives only on this disk.
 
