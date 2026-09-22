@@ -1,0 +1,21 @@
+{
+  "offer_name": "The Ask Tax",
+  "obligation_tier": "COMPETITIVELY_REQUIRED",
+  "obligation_note": "Honestly scored. No legal or functional compulsion exists for the individual buyer. Urgency is manufactured from the buyer's comp calendar rather than the category.",
+  "primary_roi_driver": {
+    "type": "MAKE_MONEY",
+    "dollar_roi_calculation": "ICP median base $145,000. Conservative 9% uplift on one successful comp event = $13,050 year one. Compounding off the new base = $71,000+ over 5 years. Product price $697. Year-one return 18.7x. Buyer breaks even at a 0.48% raise."
+  },
+  "value_equation_elements": {
+    "dream_outcome": "A $12,000-$40,000 comp increase inside one review cycle without being labelled difficult",
+    "perceived_likelihood_mechanism": "The Warmth Anchor Sequence: third-party anchor, scope ledger, warmth frame, silence hold, written follow. Each step maps to a documented failure mode in the negotiation-backlash literature rather than to a motivational idea.",
+    "time_to_first_value": "Under 20 minutes. The Ask Tax Audit returns a personalised annual dollar figure at checkout.",
+    "effort_reduction_method": "Scripts, templates and a calculator. Fill-in-the-blank. No curriculum, no modules, no mindset work."
+  },
+  "fulfillment_standardization": {
+    "delivery_type": "FULLY_AUTOMATED_DIGITAL",
+    "labor_hours_per_unit": 0.0,
+    "is_copy_paste_repeatable": true,
+    "cohort_tier_labor_hours_per_unit": 0.07
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "financial_audit_summary": {
+    "upfront_price": 697.0,
+    "cash_collected_after_refunds": 641.0,
+    "estimated_cac": 262.0,
+    "fulfillment_cost": 35.0,
+    "gross_margin_percentage": 95.0,
+    "cash_collected_ratio": 2.16
+  },
+  "tier_classification": "TIER_3_PROMISED_LAND (>=2x)",
+  "gate_decision": "PASS_AUTHORIZE_SPEND",
+  "headroom_warning": "Passes at 2.16x against a 2.00x floor. Only 7 percent of headroom. A CAC overrun of $40 drops the offer to Tier 2.",
+  "kill_lines": {
+    "scale_if_cac_at_or_below": 285.0,
+    "warn_if_cac_at": 392.0,
+    "sunset_clock_starts_if_cac_above": 606.0
+  },
+  "pricing_optimization_recommendation": {
+    "target_price_for_2x": 594.0,
+    "expected_resting_price": 903.0,
+    "price_step_up_plan": "+20% every 4 sales while close rate holds at or above 20%. $697 -> $836 -> $1,003 -> $1,204. Hold at last passing price."
+  },
+  "funnel_kpi_targets": {
+    "ad_ctr_target": ">= 1.4%",
+    "landing_to_checkout_target": ">= 0.6%",
+    "checkout_completion_target": ">= 55%",
+    "refund_rate_ceiling": "< 8%",
+    "audit_completion_target": "> 70%"
+  },
+  "disclaimer": "All figures modelled from stated input assumptions, not measured. Replace with observed data at day 14 or $2,100 spend, whichever comes first."
+}

@@ -1,0 +1,84 @@
+{
+  "industry_name": "Women at senior-IC to first-line-leader level in commercial construction, engineering, industrial manufacturing and enterprise tech (US, $110k+)",
+  "is_real_industry": true,
+  "disqualification_reason": null,
+  "viability_score": {
+    "customer_ltv": 4,
+    "ease_of_reach": 5,
+    "market_size": 5,
+    "problem_urgency": 3,
+    "spending_power": 5,
+    "market_growth": 4,
+    "total_score": 26
+  },
+  "viability_verdict": "APPROVED",
+  "rejected_alternative": {
+    "industry_name": "Women in male-dominated industries (undifferentiated)",
+    "is_real_industry": false,
+    "disqualification_reason": "Demographic, not industry. No shared fulfilment structure, vocabulary, price ceiling or buying trigger across constituent fields. Scores 19/30 with two 2s and fails the non-industry filter outright.",
+    "viability_verdict": "REJECTED"
+  },
+  "icp_definition": {
+    "demographics": {
+      "job_title": "Project manager, project engineer, superintendent, estimator, design engineer, engineering manager, senior/staff engineer, operations manager",
+      "revenue_tier": "$110,000 - $260,000 personal income",
+      "location": "United States, metro markets with pay-transparency legislation prioritised",
+      "age_gender": "Women, 29-45"
+    },
+    "buyer_level_tier": "Mid-Market",
+    "buying_trigger": [
+      "Written offer in hand",
+      "Comp cycle within 90 days",
+      "Promotion packet due",
+      "New manager within 60 days",
+      "Peer promoted past her"
+    ],
+    "verbatim_language": {
+      "problems": [
+        "At least twice at site meetings, I was assumed to be the engineer's secretary sent to take minutes",
+        "There have been several incidences where I have been 'called-out' as a female and made to feel like I do not belong",
+        "People are still surprised to find a female superintendent, or women in the construction industry in general",
+        "Vastly outnumbered and have to prove themselves so much more than men",
+        "Need to prove credibility while being mindful of how they present themselves",
+        "Women who negotiate are perceived as demanding and bitchy, whereas men are seen as 'good negotiators'",
+        "She's Not Strategic"
+      ],
+      "negative_circumstances": [
+        "Raised a solution in the meeting and was ignored; her manager later said 'What Jill said'",
+        "Told she was 'being too emotional' when she raised not getting credit for her work",
+        "A lot of people made fun of me and tried to sabotage my business, or take credit for the successes I have had",
+        "I just don't want to feel like a cog in a machine",
+        "Described as 'pushy' and 'aggressive' where men doing the same get 'go-getter' and 'leader'",
+        "Offer rescinded two days after the recruiter said she would ask for more; 'had no idea if that had anything to do with it'",
+        "My biggest hurdle was age, not gender. Being the youngest, you're always the person who knows the least"
+      ],
+      "desired_outcomes": [
+        "Women aren't just looking for guidance, they need champions who will advocate for them in the rooms where decisions are made",
+        "I knew my worth and showed it to them",
+        "I wanted to get into a union skilled trades job, and this was the stepping stone I needed to boost my confidence and my resume to get me there",
+        "I hope to work my way up to becoming a superintendent one day",
+        "My leadership style is a lot softer than many. In NAWIC, I can practice my leadership style. It has really helped me to grow my abilities and my confidence",
+        "I really wanted to do something in the trades",
+        "It is really rewarding. People light up when you're there. You get to be a hero",
+        "A mentor talks to you, a sponsor talks about you"
+      ]
+    },
+    "verbatim_status": "COMPLETE: 22 statements sourced (7 problems, 7 negative circumstances, 8 desired outcomes) plus a 12-point statistics layer. Fidelity caveat: quoted fragments returned by search index; source pages could not be opened from this environment (egress policy blocks direct fetching; Reddit blocks the crawler). 90-minute link-verification pass required before use in paid copy. See 01-phase1-market-icp.md section 1.7.",
+    "statistics_layer": {
+      "interrupted_or_mistaken_for_junior": "7 in 10 women in construction (NCCER + Ambition Theory, n=775, 2025)",
+      "judgment_questioned_in_own_expertise": "3 in 4 (same)",
+      "want_career_growth": "87%, fewer than half have a program, 42% of those say it prepares them (same)",
+      "poor_leadership_as_exit_reason": "68%, ahead of low pay and physical demands (same)",
+      "formal_sponsorship_programs": "31% of companies (same)",
+      "onlys": "1 in 5 women; ~90% microaggression exposure vs 64% overall; 2.6x; 1.5x more likely to consider leaving (McKinsey/LeanIn)",
+      "sponsorship_effect": "Sponsored employees promoted at ~2x rate; 31% of entry-level women have a sponsor vs 45% of men; mentorship shows no correlation with promotion, sponsorship does",
+      "engineering_pay_gap": "Women engineers in the US earn ~10% less in comparable roles (IEEE Spectrum)",
+      "replacement_cost": "~21% of annual salary (B2B route opener)"
+    }
+  },
+  "research_findings_that_changed_the_build": [
+    "Mechanism was incomplete: 68% leave over leadership not pay, and sponsorship rather than mentorship predicts promotion. Added step 6 (the proxy ask) to the Warmth Anchor Sequence.",
+    "Buyer rejects gender-first framing in her own words ('My biggest hurdle was age, not gender'), and skews senior. Copy must open on mechanic and money, not grievance.",
+    "'Mistaken for someone more junior' is the strongest hook available: 7 in 10 prevalence, two independent verbatim confirmations, and she has a memory of it from this month."
+  ]
+}
