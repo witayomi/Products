@@ -1,0 +1,53 @@
+{
+  "industry_name": "Women at senior-IC to first-line-leader level in commercial construction, engineering, industrial manufacturing and enterprise tech (US, $110k+)",
+  "is_real_industry": true,
+  "disqualification_reason": null,
+  "viability_score": {
+    "customer_ltv": 4,
+    "ease_of_reach": 5,
+    "market_size": 5,
+    "problem_urgency": 3,
+    "spending_power": 5,
+    "market_growth": 4,
+    "total_score": 26
+  },
+  "viability_verdict": "APPROVED",
+  "rejected_alternative": {
+    "industry_name": "Women in male-dominated industries (undifferentiated)",
+    "is_real_industry": false,
+    "disqualification_reason": "Demographic, not industry. No shared fulfilment structure, vocabulary, price ceiling or buying trigger across constituent fields. Scores 19/30 with two 2s and fails the non-industry filter outright.",
+    "viability_verdict": "REJECTED"
+  },
+  "icp_definition": {
+    "demographics": {
+      "job_title": "Project manager, project engineer, superintendent, estimator, design engineer, engineering manager, senior/staff engineer, operations manager",
+      "revenue_tier": "$110,000 - $260,000 personal income",
+      "location": "United States, metro markets with pay-transparency legislation prioritised",
+      "age_gender": "Women, 29-45"
+    },
+    "buyer_level_tier": "Mid-Market",
+    "buying_trigger": [
+      "Written offer in hand",
+      "Comp cycle within 90 days",
+      "Promotion packet due",
+      "New manager within 60 days",
+      "Peer promoted past her"
+    ],
+    "verbatim_language": {
+      "problems": [
+        "People are still surprised to find a female superintendent",
+        "Vastly outnumbered and have to prove themselves so much more than men",
+        "Need to prove credibility while being mindful of how they present themselves"
+      ],
+      "negative_circumstances": [
+        "Raised a solution in the meeting and was ignored; her manager later said 'What Jill said'",
+        "Told she was 'being too emotional' when she raised not getting credit for her work",
+        "People made fun of me and tried to sabotage my business, or take credit for the successes I have had"
+      ],
+      "desired_outcomes": [
+        "Be assertive without the room turning on you"
+      ]
+    },
+    "verbatim_status": "INCOMPLETE: 7 of 20 minimum sourced. Blocker before launch. Scraping plan in 01-phase1-market-icp.md section 1.5."
+  }
+}

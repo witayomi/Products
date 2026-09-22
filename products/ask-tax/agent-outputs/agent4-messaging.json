@@ -1,0 +1,31 @@
+{
+  "big_idea": {
+    "headline_statement": "You are not underpaid because you do not ask. You ask more than they do. You are being charged for asking.",
+    "core_belief_shift": "From 'I need more confidence' to 'I have been asking for nine years and there is a fee attached to it'",
+    "emotional_hook": "Relief before anger. The first feeling is finding out she was not the problem. Relief converts; anger comments.",
+    "logical_justification": "64% of women vs 59% of men report negotiating for promotion or pay; 54% vs 44% on job offers. The gap persists anyway. The same assertive ask from a woman is rated less likeable, less hireable and less promotable. The behaviour is identical; the price is not."
+  },
+  "messaging_matrix": {
+    "direct_offer_script": {
+      "hook": "You have an offer open in another tab and you already know you are going to accept it at the number they gave you.",
+      "body": "Women negotiate more often than men, not less. 64% to 59%. You are not the problem. The same assertive ask, from you, reads as difficult and costs you the promotion even when you win the number. The Ask Tax is the system for making the ask without paying the fee: a 20-minute audit that returns what you are losing per year in dollars, 14 word-for-word scripts, and the five-step sequence that lets a hard number land without the room turning on you.",
+      "cta": "Run the audit. Twenty minutes, one number. Then decide. $697, and a 0.48% raise pays for it."
+    },
+    "workhorse_angles": [
+      { "angle_name": "The ask tax", "target_pain_point": "Believes she is bad at negotiating" },
+      { "angle_name": "The scope ledger", "target_pain_point": "Absorbed more scope, got nothing for it" },
+      { "angle_name": "The walk-back", "target_pain_point": "Verbal yes that quietly evaporated" },
+      { "angle_name": "Competent and difficult", "target_pain_point": "Has been called intense or 'a lot'" }
+    ],
+    "niche_angle_count": 15,
+    "niche_angles_reference": "04-phase4-messaging.md section 4.4"
+  },
+  "banned_language": [
+    "Men framed as the antagonist in any form (Meta policy strikes, account restriction, collapses the Phase 5 scaling protocol)",
+    "alpha / boss babe / girlboss / she-EO (signals low-ticket consumer category, caps price at $97)",
+    "Grievance hooks with no dated action (attracts the refund cohort)",
+    "Income claims presented as typical (policy and refund liability)",
+    "sisterhood / community of women (she is not buying a community, she has a meeting Thursday)"
+  ],
+  "framing_rule": "The antagonist is a mechanism, not a gender. A mechanism can be beaten with a script, which is what she is paying for."
+}
