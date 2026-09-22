@@ -105,7 +105,7 @@ This works because it is true, it is checkable, it removes self-blame without ha
 | ~~1-3~~ | ~~Close the verbatim gap~~ **Done.** 22 statements plus a statistics layer. File 01 sections 1.5 and 1.6 | Research |
 | 1 | Link-verification pass, 90 minutes, from a machine with normal web access. Confirm every quote against its source page before it enters copy. File 01 section 1.7 | Research |
 | 3-5 | Build the Ask Tax Audit, the 20-minute instant win that returns a dollar figure | Product |
-| 5-8 | Write the sales page against the direct-offer script in file 04 | Copy |
+| ~~5-8~~ | ~~Write the sales page~~ **Done.** File 06, with 4 headline variants and a test order | Copy |
 | 8-10 | Ship the direct-offer ad set, $150/day, three creatives | Media |
 | 10-14 | Read CAC against the $335 breakeven in file 03. Hold, scale or reprice | Media |
 

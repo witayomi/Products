@@ -12,6 +12,7 @@ A digital product built against SOP-AI-OFFER-SCALE-001 (Core 7 market screening,
 | [03-phase3-unit-economics.md](03-phase3-unit-economics.md) | Four price models, sensitivity, kill lines, price ladder, gate decision |
 | [04-phase4-messaging.md](04-phase4-messaging.md) | Big idea, direct offer script, 4 workhorse angles, 15 niche angles, vocabulary rules, banned language |
 | [05-phase5-6-scale-sunset.md](05-phase5-6-scale-sunset.md) | Launch structure, scaling rules, sunset triggers and execution |
+| [06-sales-page.md](06-sales-page.md) | Build-ready sales page copy, 4 headline variants, guarantee design, disqualification section, objections, implementation and test order |
 | [agent-outputs/](agent-outputs/) | Machine-readable JSON matching the Agent 1-4 schemas, ready to drop into the pipeline |
 
 **Verbatim: closed.** 22 statements plus a 12-point statistics layer, file 01 sections 1.5 and 1.6. One open task: a 90-minute link-verification pass before anything reaches paid copy, per section 1.7. Nothing was invented.
