@@ -90,6 +90,16 @@ High-spend, broad. These absorb the budget.
 >
 > You do not fix that by being softer. You fix it by changing what the number is attached to before it enters the room. Five steps. Scripts included.
 
+### W5. The room you are not in
+
+*Pain: she did everything right and still did not get it. Backed by the sponsorship data.*
+
+> You prepared. You brought numbers. Your manager agreed with all of it.
+>
+> Then the decision got made in a calibration room you were not invited to, by people who had never heard your case out loud. Mentorship shows no measurable effect on whether women get promoted. Sponsorship nearly doubles the rate. 31% of women have one. 45% of men do.
+>
+> You do not need another mentor. You need one person with standing who will say your number when you are not there, and a paragraph short enough that they will actually say it.
+
 ---
 
 ## 4.4 Niche angles
@@ -113,6 +123,11 @@ Low budget each, high combined depth. Each targets a specific dated circumstance
 | N13 | Contractor or consultant setting rates | "You quoted the same rate for the third year running because raising it felt aggressive. It is not a rate, it is a band." |
 | N14 | Performance review rated "meets expectations" | "Meets expectations, again, on double the scope. That rating is a budgeting decision, not an assessment." |
 | N15 | Considering leaving the industry entirely | "You are not burnt out on the work. You are burnt out on proving you can do the work. Those cost different things to fix." |
+| N16 | Mistaken for someone junior | "Third time this quarter someone assumed you were there to take the minutes. 7 in 10 women in construction report the same thing. It is not a vibe, it is a number, and it is costing you a band." |
+| N17 | Judgment questioned in her own specialty | "Three in four women have had their judgment questioned in the area they were specifically hired to be the expert in. You are not imagining the re-litigation." |
+| N18 | Told she is "not strategic" | "Not strategic. That is the feedback, and nobody will tell you what would fix it, because it is not a skills gap. Here is what it actually means and what to send back." |
+| N19 | Over-mentored, under-sponsored | "You have three mentors and no promotion. Those two facts are related. Mentors talk to you. Sponsors talk about you." |
+| N20 | The only woman at her level | "One in five women are the only one in the room. That group is 1.5 times more likely to be planning an exit. You are not fragile, you are outnumbered, and it is a solvable problem." |
 
 ---
 
@@ -146,6 +161,8 @@ Not on moral grounds. Each of these costs money for a specific reason.
 | Grievance-only hooks with no dated action | Attracts the refund cohort. See the refund sensitivity row in file 03 |
 | Income claims presented as typical | Advertising policy exposure and refund liability |
 | "Sisterhood", "community of women" | She is not buying a community. She has a meeting on Thursday |
+
+One finding from the verbatim research is worth its own line, because it comes from the buyer rather than from strategy. A NAWIC assistant superintendent, asked about her hardest challenge, said: *"My biggest hurdle was age, not gender."* A real share of this ICP refuses the identity read on her own career, and she skews toward the senior, higher-earning end of the list. Copy that opens on grievance sorts her out of the funnel before she sees the price. Open on the mechanic and the money.
 
 The rule underneath all of it: **the enemy is a mechanism, not a gender.** The ask tax is something being done to her by a system that has a documented shape, and a system can be beaten with a script. A gender cannot, which is why that framing sells nothing at this price point.
 

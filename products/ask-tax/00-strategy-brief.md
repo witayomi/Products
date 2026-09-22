@@ -102,10 +102,23 @@ This works because it is true, it is checkable, it removes self-blame without ha
 
 | Day | Action | Owner |
 |---|---|---|
-| 1-3 | Close the verbatim gap. 20 sourced statements minimum, per file 01. This is the only genuine blocker | Research |
+| ~~1-3~~ | ~~Close the verbatim gap~~ **Done.** 22 statements plus a statistics layer. File 01 sections 1.5 and 1.6 | Research |
+| 1 | Link-verification pass, 90 minutes, from a machine with normal web access. Confirm every quote against its source page before it enters copy. File 01 section 1.7 | Research |
 | 3-5 | Build the Ask Tax Audit, the 20-minute instant win that returns a dollar figure | Product |
 | 5-8 | Write the sales page against the direct-offer script in file 04 | Copy |
 | 8-10 | Ship the direct-offer ad set, $150/day, three creatives | Media |
 | 10-14 | Read CAC against the $335 breakeven in file 03. Hold, scale or reprice | Media |
 
 Everything else is built. Files 01 through 05 carry the Core 7 scoring, ICP, offer architecture, unit economics, messaging matrix and the scale and sunset protocols, plus machine-readable agent outputs in `agent-outputs/` that drop straight into the pipeline.
+
+---
+
+## What the verbatim research changed
+
+Three things moved after the bank was filled, which is the point of doing it before writing copy rather than after.
+
+**The mechanism gained a step.** 68% of women leave construction over leadership rather than pay, and sponsorship predicts promotion where mentorship does not. So a perfect ask can still lose in a calibration room she is not in. Step 6, the proxy ask, is now in the sequence. It is the part no competitor at this price teaches.
+
+**The lead hook changed.** Not pay. "Mistaken for someone more junior," at 7 in 10, with two independent verbatim confirmations from women assumed to be there to take the minutes. She has a memory of it from this month, which is what a cold hook needs.
+
+**The buyer argued my case for me.** A NAWIC assistant superintendent, asked about her hardest challenge, said her biggest hurdle was age, not gender. A real share of this ICP refuses the identity read on her own career, and she skews senior and higher-earning. Grievance-led copy sorts your best buyer out of the funnel before she reaches the price.

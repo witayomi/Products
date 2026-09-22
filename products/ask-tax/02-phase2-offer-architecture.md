@@ -32,8 +32,13 @@ The Warmth Anchor Sequence is those two, in a fixed order, with scripts:
 | 3 | The warmth frame | A fixed sentence pattern that attaches the ask to a shared outcome before the number lands | Keeps the likeability score intact while the competence claim is made |
 | 4 | The silence hold | She stops talking. Scripted, timed, rehearsed | The single most common failure point. Most women talk the number back down themselves |
 | 5 | The written follow | Same-day written summary that locks what was agreed in the manager's own words | Prevents the quiet walk-back, which is where most verbal wins die |
+| 6 | The proxy ask | She recruits one person with standing to say her number in the calibration room she is not invited to, and gives them the one-paragraph version to say | The decision is not made in her meeting. This is the step that converts a won conversation into a won promotion |
 
 It is believable because it explains why her previous attempts failed without blaming her, and because each step maps to a documented failure mode rather than a motivational idea.
+
+**Step 6 is the differentiator and it was added after the verbatim research, not before.** The NCCER and Ambition Theory survey of 775 women in construction found 68% cite poor leadership as a main reason they leave, ahead of low pay. The sponsorship research is blunter: mentorship shows no correlation with whether women get promoted, sponsorship does, and sponsored employees are promoted at close to twice the rate. Only 31% of entry-level women have a sponsor against 45% of men.
+
+Which means a woman can run steps 1 through 5 perfectly and still lose, because the decision happens in a room she is not in. Every competitor at this price point teaches the conversation. None of them teach the room. That gap is the offer.
 
 ---
 
@@ -108,7 +113,8 @@ The B2B route in file 00 does carry real obligation pressure, through EEO-1 repo
 | Asset | Format | Role |
 |---|---|---|
 | The Ask Tax Audit | Calculator | Instant win. Returns her number in under 20 minutes |
-| The Warmth Anchor Scripts | 14 scripts | Core mechanism. Covers the raise ask, the counter-offer, the promo conversation, the walk-back, the "we have no budget" response, the skip-level |
+| The Warmth Anchor Scripts | 16 scripts | Core mechanism. Covers the raise ask, the counter-offer, the promo conversation, the walk-back, the "we have no budget" response, the skip-level, and the two proxy-ask scripts |
+| The Proxy Ask | Template plus 2 scripts | Step 6. How to recruit one person with standing and hand them the paragraph to say in calibration |
 | The Scope Ledger | Template | Turns her year into the employer's accounting units |
 | The Packet | Template | Promotion packet structured as a business case, not a status report |
 | Backlash Playbook | Short guide | What to do in the 72 hours after the ask when the room goes cold |

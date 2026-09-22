@@ -14,6 +14,6 @@ A digital product built against SOP-AI-OFFER-SCALE-001 (Core 7 market screening,
 | [05-phase5-6-scale-sunset.md](05-phase5-6-scale-sunset.md) | Launch structure, scaling rules, sunset triggers and execution |
 | [agent-outputs/](agent-outputs/) | Machine-readable JSON matching the Agent 1-4 schemas, ready to drop into the pipeline |
 
-**Open blocker:** verbatim mining is at 7 of the 20-statement minimum. Plan in file 01 section 1.5. Nothing was invented to fill the quota.
+**Verbatim: closed.** 22 statements plus a 12-point statistics layer, file 01 sections 1.5 and 1.6. One open task: a 90-minute link-verification pass before anything reaches paid copy, per section 1.7. Nothing was invented.
 
 All financial figures are modelled from stated assumptions, not measured. Replace at day 14 or $2,100 spend.
